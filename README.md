@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tenuye
+- 👋 Hi, I’m sosena 
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning csp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 i am Ethiopian
+- 💞️ i living US 
+- 📫 i like math 
 
 <!---
 tenuye/tenuye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
